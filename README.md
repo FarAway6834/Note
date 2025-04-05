@@ -11,6 +11,8 @@ method area 와 class loader 에 대해서 문득 궁금했었다.
 [아....](https://doohong.github.io/2018/03/02/Java-runtime-data-area) new로 할당해서 메소드를 다루는게 정말 예술이다... PC Register라는 Stack-Based 방식이라는데, 어디서 들어봤지만 ~~어려워서 스킵~~ 조금 이따가 조사해보기로 하자
 
 `skip - [1]`
+
 ---
 ---
+
 `arrived - [1]`
